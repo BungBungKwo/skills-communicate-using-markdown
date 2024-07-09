@@ -5,7 +5,10 @@
 ##### Heading Level 5
 ###### Heading Level 6
 
+# Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Code Exapmle
 
 A Git command code example:
 ```
@@ -17,3 +20,9 @@ A C statement code example:
 ```C
 printf("Hello World!");
 ```
+
+# Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
