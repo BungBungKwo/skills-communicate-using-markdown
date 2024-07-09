@@ -6,3 +6,14 @@
 ###### Heading Level 6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+A Git command code example:
+```
+$ git init
+Initialized empty Git repository
+```
+
+A C statement code example:
+```C
+printf("Hello World!");
+```
